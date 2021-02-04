@@ -59,7 +59,7 @@
     "lodash": "^4.17.20",
     "next": "^9.2.1",
     "next-with-apollo": "^5.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-sass": "^5.0.0",
     "react": "^16.13.1",
     "react-apollo": "^3.1.5",
